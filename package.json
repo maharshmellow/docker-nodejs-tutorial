@@ -1,5 +1,5 @@
 {
-    "name": "maharsh_node_test",
+    "name": "docker_nodejs_tutorial",
     "version": "1.0.0",
     "description": "Node.js on Docker",
     "author": "Maharsh Patel <patel@maharsh.net>",
